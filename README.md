@@ -1,4 +1,4 @@
-# azdc-training.github.io
+# azure-devcollege.github.io
 
 Landing page for azdc-training organization - have fun! 🚀
 
