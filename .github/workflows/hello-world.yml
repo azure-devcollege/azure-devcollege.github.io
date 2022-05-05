@@ -1,9 +1,14 @@
 # hello-world.yaml
-name: Hello World!
+name: Hello World
 
 on:
   push:
   workflow_dispatch:
+  
+permissions:
+  issues: write
+  pull-requests: write
+  contents: write
 
 jobs:
   greet:
