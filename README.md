@@ -1,6 +1,6 @@
 # azure-devcollege.github.io
 
-Landing page for azdc-training organization - have fun! 🚀
+Landing page for azure-devcollege organization - have fun! 🚀
 
 This is a sample README.md where you document your newly created Coding Dreams! 🧚‍♀️ 🧚‍♂️
 
